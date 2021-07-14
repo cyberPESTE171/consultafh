@@ -1,8 +1,4 @@
 # consultafh
-consultar IP, CEP, CNPJ com Termux ou Kali linux 
-
-
-# consultafh
 consultar ip, cep, cnpj com Kali linux or Termux
 
 INSTALAÇÃO KALI LINUX OU TERMUX
