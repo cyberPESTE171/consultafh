@@ -1,4 +1,7 @@
 # consultafh
+
+canal do criador do script: https://www.youtube.com/channel/UC-eAYu3NNy6qbGJsVB3zevg
+
 consultar ip, cep, cnpj com Kali linux or Termux
 
 INSTALAÇÃO KALI LINUX OU TERMUX
